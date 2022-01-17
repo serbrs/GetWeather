@@ -1,0 +1,4 @@
+GET http://api.weatherstack.com/current?access_key=REACT_APP_API_KEY=London HTTP/1.1
+
+
+GET https://restcountries.com/v2/all HTTP/1.1
